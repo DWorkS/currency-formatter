@@ -19,7 +19,7 @@
   },
   "ALL": {
     "code": "ALL",
-    "symbol": "Lek",
+    "symbol": "L",
     "thousandsSeparator": ".",
     "decimalSeparator": ",",
     "symbolOnLeft": false,
@@ -136,7 +136,7 @@
   },
   "BIF": {
     "code": "BIF",
-    "symbol": "FBu",
+    "symbol": "Fr",
     "thousandsSeparator": ",",
     "decimalSeparator": ".",
     "symbolOnLeft": false,
@@ -163,7 +163,7 @@
   },
   "BOB": {
     "code": "BOB",
-    "symbol": "Bs",
+    "symbol": "Bs.",
     "thousandsSeparator": ".",
     "decimalSeparator": ",",
     "symbolOnLeft": true,
@@ -217,7 +217,7 @@
   },
   "BYR": {
     "code": "BYR",
-    "symbol": "р.",
+    "symbol": "Br",
     "thousandsSeparator": " ",
     "decimalSeparator": ",",
     "symbolOnLeft": false,
@@ -226,7 +226,7 @@
   },
   "BYN": {
     "code": "BYN",
-    "symbol": "р.",
+    "symbol": "Br",
     "thousandsSeparator": " ",
     "decimalSeparator": ",",
     "symbolOnLeft": false,
@@ -253,7 +253,7 @@
   },
   "CDF": {
     "code": "CDF",
-    "symbol": "FC",
+    "symbol": "Fr",
     "thousandsSeparator": ",",
     "decimalSeparator": ".",
     "symbolOnLeft": false,
@@ -262,7 +262,7 @@
   },
   "CHF": {
     "code": "CHF",
-    "symbol": "CHF",
+    "symbol": "Fr",
     "thousandsSeparator": "'",
     "decimalSeparator": ".",
     "symbolOnLeft": true,
@@ -307,7 +307,7 @@
   },
   "CUC": {
     "code": "CUC",
-    "symbol": "CUC",
+    "symbol": "$",
     "thousandsSeparator": ",",
     "decimalSeparator": ".",
     "symbolOnLeft": true,
@@ -343,7 +343,7 @@
   },
   "DJF": {
     "code": "DJF",
-    "symbol": "Fdj",
+    "symbol": "Fr",
     "thousandsSeparator": ",",
     "decimalSeparator": ".",
     "symbolOnLeft": false,
@@ -397,7 +397,7 @@
   },
   "ETB": {
     "code": "ETB",
-    "symbol": "ETB",
+    "symbol": "Br",
     "thousandsSeparator": ",",
     "decimalSeparator": ".",
     "symbolOnLeft": true,
@@ -442,7 +442,7 @@
   },
   "GEL": {
     "code": "GEL",
-    "symbol": "GEL",
+    "symbol": "₾",
     "thousandsSeparator": " ",
     "decimalSeparator": ",",
     "symbolOnLeft": false,
@@ -478,7 +478,7 @@
   },
   "GNF": {
     "code": "GNF",
-    "symbol": "FG",
+    "symbol": "Fr",
     "thousandsSeparator": ",",
     "decimalSeparator": ".",
     "symbolOnLeft": false,
@@ -631,7 +631,7 @@
   },
   "KES": {
     "code": "KES",
-    "symbol": "KSh",
+    "symbol": "Sh",
     "thousandsSeparator": ",",
     "decimalSeparator": ".",
     "symbolOnLeft": true,
@@ -640,7 +640,7 @@
   },
   "KGS": {
     "code": "KGS",
-    "symbol": "сом",
+    "symbol": "с",
     "thousandsSeparator": " ",
     "decimalSeparator": "-",
     "symbolOnLeft": false,
@@ -658,7 +658,7 @@
   },
   "KMF": {
     "code": "KMF",
-    "symbol": "CF",
+    "symbol": "Fr",
     "thousandsSeparator": ",",
     "decimalSeparator": ".",
     "symbolOnLeft": false,
@@ -748,7 +748,7 @@
   },
   "LSL": {
     "code": "LSL",
-    "symbol": "M",
+    "symbol": "L",
     "thousandsSeparator": ",",
     "decimalSeparator": ".",
     "symbolOnLeft": false,
@@ -775,7 +775,7 @@
   },
   "MDL": {
     "code": "MDL",
-    "symbol": "lei",
+    "symbol": "L",
     "thousandsSeparator": ",",
     "decimalSeparator": ".",
     "symbolOnLeft": false,
@@ -802,7 +802,7 @@
   },
   "MMK": {
     "code": "MMK",
-    "symbol": "K",
+    "symbol": "Ks",
     "thousandsSeparator": ",",
     "decimalSeparator": ".",
     "symbolOnLeft": true,
@@ -856,7 +856,7 @@
   },
   "MVR": {
     "code": "MVR",
-    "symbol": "MVR",
+    "symbol": ".ރ",
     "thousandsSeparator": ",",
     "decimalSeparator": ".",
     "symbolOnLeft": false,
@@ -1063,7 +1063,7 @@
   },
   "RWF": {
     "code": "RWF",
-    "symbol": "RWF",
+    "symbol": "Fr",
     "thousandsSeparator": " ",
     "decimalSeparator": ",",
     "symbolOnLeft": true,
@@ -1153,7 +1153,7 @@
   },
   "SOS": {
     "code": "SOS",
-    "symbol": "S",
+    "symbol": "Sh",
     "thousandsSeparator": ",",
     "decimalSeparator": ".",
     "symbolOnLeft": true,
@@ -1198,7 +1198,7 @@
   },
   "SZL": {
     "code": "SZL",
-    "symbol": "E",
+    "symbol": "L",
     "thousandsSeparator": ",",
     "decimalSeparator": ".",
     "symbolOnLeft": true,
@@ -1216,7 +1216,7 @@
   },
   "TJS": {
     "code": "TJS",
-    "symbol": "TJS",
+    "symbol": "c.",
     "thousandsSeparator": " ",
     "decimalSeparator": ";",
     "symbolOnLeft": false,
@@ -1288,7 +1288,7 @@
   },
   "TZS": {
     "code": "TZS",
-    "symbol": "TSh",
+    "symbol": "Sh",
     "thousandsSeparator": ",",
     "decimalSeparator": ".",
     "symbolOnLeft": true,
@@ -1351,7 +1351,7 @@
   },
   "VEF": {
     "code": "VEF",
-    "symbol": "Bs. F.",
+    "symbol": "Bs.",
     "thousandsSeparator": ".",
     "decimalSeparator": ",",
     "symbolOnLeft": true,
@@ -1369,7 +1369,7 @@
   },
   "VUV": {
     "code": "VUV",
-    "symbol": "VT",
+    "symbol": "Vt",
     "thousandsSeparator": ",",
     "decimalSeparator": ".",
     "symbolOnLeft": false,
@@ -1387,7 +1387,7 @@
   },
   "XAF": {
     "code": "XAF",
-    "symbol": "F",
+    "symbol": "Fr",
     "thousandsSeparator": ",",
     "decimalSeparator": ".",
     "symbolOnLeft": false,
@@ -1414,7 +1414,7 @@
   },
   "XOF": {
     "code": "XOF",
-    "symbol": "F",
+    "symbol": "Fr",
     "thousandsSeparator": " ",
     "decimalSeparator": ",",
     "symbolOnLeft": false,
@@ -1423,7 +1423,7 @@
   },
   "XPF": {
     "code": "XPF",
-    "symbol": "F",
+    "symbol": "₣",
     "thousandsSeparator": ",",
     "decimalSeparator": ".",
     "symbolOnLeft": false,

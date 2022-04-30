@@ -29,9 +29,9 @@ var formatMapping = [
     symbolOnLeft: true,
     spaceBetweenAmountAndSymbol: true,
     format: {
-      pos: '%s %v',
-      neg: '-%s %v',
-      zero: '%s %v'
+      pos: '%s %v',
+      neg: '-%s %v',
+      zero: '%s %v'
     }
   },
   {
@@ -47,9 +47,9 @@ var formatMapping = [
     symbolOnLeft: false,
     spaceBetweenAmountAndSymbol: true,
     format: {
-      pos: '%v %s',
-      neg: '-%v %s',
-      zero: '%v %s'
+      pos: '%v %s',
+      neg: '-%v %s',
+      zero: '%v %s'
     }
   }
 ]
